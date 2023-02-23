@@ -1,1 +1,1 @@
-# DIDigitalClock
+# Digital Institute - Digital Clock
